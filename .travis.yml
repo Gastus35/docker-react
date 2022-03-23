@@ -1,4 +1,8 @@
 language: generic
+
+notifications:
+  email: false
+  
 sudo: required
 services:
   - docker
